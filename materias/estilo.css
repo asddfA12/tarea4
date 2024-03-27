@@ -1,0 +1,22 @@
+*
+{
+    background-color: rgb(238, 128, 88);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.list-group
+{
+    margin: 10px;
+    border-style: solid;
+}
+.titan-one-regular {
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: rgb(250, 62, 62);
+    text-align: center;
+    border-style: solid;
+  }
+  

@@ -1,0 +1,13 @@
+*
+{
+    background-color: rgb(238, 130, 206);
+}
+.titan-one-regular {
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: rgb(238, 56, 183);
+    text-align: center;
+    border-style: solid;
+  }
